@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.168
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28407.52
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "01-01 Hello World", "01-01 Hello World\01-01 Hello World.pyproj", "{42580E7B-3664-4DCC-91FF-B8CC4BF475E8}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "01-02 Variables and Types", "01-02 Variables and Types\01-02 Variables and Types.pyproj", "{B5B93578-56AA-4DBF-B99B-B5961CA997E1}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "01-03 Lists", "01-03 Lists\01-03 Lists.pyproj", "{2669F8DB-02A5-4C19-B558-AB21F0B1E8B2}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "01-04 Basic Operators", "01-04 Basic Operators\01-04 Basic Operators.pyproj", "{C49D10E2-7B29-44A5-8D46-6ADDF114EBD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,8 @@ Global
 		{B5B93578-56AA-4DBF-B99B-B5961CA997E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2669F8DB-02A5-4C19-B558-AB21F0B1E8B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2669F8DB-02A5-4C19-B558-AB21F0B1E8B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C49D10E2-7B29-44A5-8D46-6ADDF114EBD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C49D10E2-7B29-44A5-8D46-6ADDF114EBD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
