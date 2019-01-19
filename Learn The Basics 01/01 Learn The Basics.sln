@@ -13,6 +13,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "01-04 Basic Operators", "01
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "01-05 String Formatting", "01-05 String Formatting\01-05 String Formatting.pyproj", "{0AAA2739-28A6-4BC7-B0CB-01BE67037ECC}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "01-06 Basic String Operations", "01-06 Basic String Operations\01-06 Basic String Operations.pyproj", "{917C418A-8A3E-43AA-817B-6D667CB547BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,8 @@ Global
 		{C49D10E2-7B29-44A5-8D46-6ADDF114EBD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AAA2739-28A6-4BC7-B0CB-01BE67037ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0AAA2739-28A6-4BC7-B0CB-01BE67037ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{917C418A-8A3E-43AA-817B-6D667CB547BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{917C418A-8A3E-43AA-817B-6D667CB547BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
